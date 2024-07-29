@@ -18,6 +18,12 @@ p{
     height: 100%vh;
 }
 
-#container{
+.container{
     background-color: grey;
+    padding: 10px 10%;
+}
+
+nav ul li{
+    display: flex;
+
 }
