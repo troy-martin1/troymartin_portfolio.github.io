@@ -18,6 +18,10 @@ p{
     height: 100%vh;
 }
 
+.img{
+    size: 250px;
+}
+
 .container{
     background-color: grey;
     padding: 10px 10%;
