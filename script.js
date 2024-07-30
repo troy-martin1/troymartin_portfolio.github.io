@@ -4,3 +4,6 @@ const navMenu = document.querySelector('.navMenu');
 hamburger.addEventListener('click', () => {
     navMenu.classList.toggle('hide');
 });
+
+let slideIndex = 1;
+showSlides(slideIndex);

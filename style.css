@@ -32,6 +32,9 @@ p{
     position: relative;
     margin: auto;
 }
+
+*{box-sizing:border-box}
+
 /*Hide image default*/
 .mySlides{
     display: none;
