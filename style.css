@@ -37,7 +37,7 @@ p{
 
 /*Hide image default*/
 .mySlides{
-    display: none;
+    display: flex;
 }
 
 /*controller buttons*/
