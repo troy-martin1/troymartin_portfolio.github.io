@@ -26,6 +26,25 @@ p{
     background-color: grey;
     padding: 10px 10%;
 }
+/*Slide show container*/
+.slideshowCotainer{
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+}
+/*Hide image default*/
+.mySlides{
+    display: none;
+}
+
+/*controller buttons*/
+
+
+/*position the next button on the right*/
+
+/*position the back button on the left*/
+
+
 
 nav ul li{
     display: inline-flex;
