@@ -36,9 +36,9 @@ p{
 *{box-sizing:border-box}
 
 /*Hide image default*/
-.mySlides{
+/* .mySlides{
     display: flex;
-}
+} */
 
 /*controller buttons*/
 .prev, .next{
