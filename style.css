@@ -25,6 +25,7 @@ p{
 .container{
     background-color: grey;
     padding: 10px 10%;
+    position: relative;
 }
 /*Slide show container*/
 .slideshowCotainer{
